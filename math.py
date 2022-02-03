@@ -7,7 +7,7 @@ def sub(x,y):
     return x-y                    #on master
 #multiplication implementation
 def mul(x,y):
-    return x*y                     # on Bug456
+    return x*y                     # on Github
 # division implementation
 def div(x,y):
     if y==0:
