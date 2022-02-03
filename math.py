@@ -4,7 +4,7 @@ def add(x,y):
     return x+y                    # on Bug123
 #subtraction implementation
 def sub(x,y):
-    return x-y                    #on master
+    return x-y                    #on featureloc2
 #multiplication implementation
 def mul(x,y):
     return x*y                     # on Bug456
