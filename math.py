@@ -1,7 +1,7 @@
 #calculator math project
 #addition implementation
 def add(x,y):
-    return x+y                    # on Bug123
+    return x+y                    # done on github
 #subtraction implementation
 def sub(x,y):
     return x-y                    #on master
