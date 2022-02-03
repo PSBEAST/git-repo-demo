@@ -11,7 +11,7 @@ def mul(x,y):
 # division implementation
 def div(x,y):
     if y==0:
-        return DIVIDE_BY_0_ERROR    # on Bug789
+        return DIVIDE_BY_0_ERROR    # done on main
     else:
         return x/y
 
