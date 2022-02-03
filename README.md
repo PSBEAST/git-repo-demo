@@ -1,1 +1,1 @@
-# git-repo-demo
+# this is a math project
